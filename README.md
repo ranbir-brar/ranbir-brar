@@ -48,4 +48,4 @@
 
 
 [website]: www.google.com
-[linkedin]: https://www.linkedin.com/in/ranbir-brar-6653b2186/
+[linkedin]: www.linkedin.com/in/ranbirbrar
