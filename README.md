@@ -43,7 +43,6 @@
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranbir-brar&hide=stars,prs&count_private=true&show_icons=true&theme=outrun&include_all_commits=true&custom_title=My%20Github%20Statistics)](https://github.com/ranbir-brar/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranbir-brar&layout=compact&custom_title=My%20Most%20Used%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
