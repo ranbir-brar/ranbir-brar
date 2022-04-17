@@ -41,7 +41,7 @@
 
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranbir-brar&hide=stars,prs&count_private=true&show_icons=true&theme=outrun&include_all_commits=true&custom_title=My%20Github%20Statistics)](https://github.com/ranbir-brar/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranbir-brar&hide=stars,prs&count_private=true&show_icons=true&theme=outrun&include_all_commits=true&custom_title=My%20Github%20Statistics)](https://github.com/ranbir-brar/github-readme-stats) -->
 
 
 ---
