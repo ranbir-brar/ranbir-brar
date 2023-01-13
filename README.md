@@ -1,6 +1,6 @@
 ## Hi there, I'm Ranbir 👋
 
-### I'm a Third Year Software Engineering Student
+### I'm a Fourth Year Software Engineering Student
 
 - 🔭 I'm currently studying at the University of Ottawa
 
